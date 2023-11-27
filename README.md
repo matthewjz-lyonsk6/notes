@@ -52,3 +52,10 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-11-26
 - "Keep it simple, stupid!"
+
+# 2023-11-27
+- Today's programming wisdom is to be a lifelong learner and to always stay up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, take a step back, break it down into smaller components, use logical thinking, creativity, experimentation, reference documentation, or ask for help from others. Remember that every problem provides an opportunity to learn and grow as a programmer. 
+ 学习新技能，如测试驱动开发（TDD）、敏捷开发、持续集成和持续部署（CI/CD）等，可以帮助你编写更高质量的代码，提高工作效率，并适应不断变化的技术环境。
+最后，保持良好的沟通和团队协作能力至关重要。与同事、导师和客户保持良好的关系，以便在遇到问题时获得支持和建议，同时也能分享知识和经验。通过不断学习和实践，你将不断提高自己的编程技能和智慧，成为一名优秀的程序员。
