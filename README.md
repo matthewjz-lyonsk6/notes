@@ -62,3 +62,8 @@ Another important aspect of programming wise is problem-solving skills. When fac
 
 # 2023-11-28
 - "Keep it simple, stupid!"
+
+# 2023-11-29
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user when designing and developing software, as even the most advanced technology can be rendered useless if it's too complex for users to understand or operate.
