@@ -67,3 +67,6 @@ Another important aspect of programming wise is problem-solving skills. When fac
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user when designing and developing software, as even the most advanced technology can be rendered useless if it's too complex for users to understand or operate.
+
+# 2023-11-30
+- "Programming wisdom for today: 'Code is read much more often than it is written. Therefore, write code as if the person who will read it is a violent psychopath who knows where you live.'" This quote by Martin Golding emphasizes the importance of writing clear, understandable, and well-documented code that can be easily maintained and debugged by other developers. It also highlights the fact that coding is not just about writing code, but also about communicating with other members of a development team and with future maintainers of the code.
