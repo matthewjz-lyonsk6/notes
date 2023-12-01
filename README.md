@@ -70,3 +70,10 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-11-30
 - "Programming wisdom for today: 'Code is read much more often than it is written. Therefore, write code as if the person who will read it is a violent psychopath who knows where you live.'" This quote by Martin Golding emphasizes the importance of writing clear, understandable, and well-documented code that can be easily maintained and debugged by other developers. It also highlights the fact that coding is not just about writing code, but also about communicating with other members of a development team and with future maintainers of the code.
+
+# 2023-12-01
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: When you're working on a project, it'ss important to know which tasks are most important and which can wait. By prioritizing your tasks based on their urgency and value, you can make sure you spend your time where it matters most.
+2. Plan ahead: Planning ahead is crucial for success in programming. Think about the long-term goals of your project and break them down into smaller, manageable tasks. Then, allocate time and resources to each task, ensuring that you have enough time to complete everything on your list. 
+3. Stay organized: Keeping your code, project files, notes, etc. organized is essential for finding information and avoiding confusion. Use version control systems like Git to track your changes and collaborate with others, use project management tools like Trello or Asana to keep track of tasks and deadlines,and organize your files and code using version controllers and well-structured directories.
