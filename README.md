@@ -115,3 +115,6 @@ Lastly, remember to stay up-to-date with new technologies and programming langua
 
 # 2023-12-11
 - "Keep it simple, stupid!"
+
+# 2023-12-12
+- Today's programming wisdom is to prioritize writing clean, readable, and maintainable code over clever or overly complex solutions. It's important to remember that code is read far more often than it is written, so taking the time to make it easy for others (and your future self) to understand will save time and headaches in the long run. Additionally, adhering to established best practices and coding standards can help ensure that your code is of high quality and can be easily integrated into larger projects.
