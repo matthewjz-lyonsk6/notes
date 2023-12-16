@@ -132,3 +132,10 @@ Remember to take breaks throughout the day to clear your mind and refocus. Avoid
 
 Remember that programming is a collaborative effort, so be sure to communicate effectively with your teammates. Learn to listen to their ideas and feedback, but also be willing to share your knowledge and experience. Through this collaboration, your teams will be able to develop better solutions and create more innovative products. 
  - 来自NLP
+
+# 2023-12-16
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that are most critical to your project, you can ensure that you will make progress on the right things.
+
+Second, always plan beforehand. When starting a new project or working on a complex task, take the time to break it down into smaller, manageable steps. Creating a plan will not only help keep you organized but also ensure you don't miss any important details. As you work through the steps, regularly evaluate your progress and adjust the plan as needed. 
+ <p>
+Finally, stay organised. Use version control systems like Git to keep track of your code and collaborate with others. Organize your files and directories in a logical manner, so you always know where to find what you need. Additionally, use code editors and IDEs that support quick navigation and code completion, which can save you time and reduce the risk of making typos. Remember, being organized and efficient will lead to a better overall coding experience and better results.
