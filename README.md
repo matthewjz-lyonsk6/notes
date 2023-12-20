@@ -153,3 +153,8 @@ Remember to take breaks throughout the day to avoid burnout and maintain your fo
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the task down into smaller, manageable steps, then allocate time and resources to each step. Having a clear plan will ensure you stay on track and avoid getting lost in the weeds. 
  （108个字符）
+
+# 2023-12-20
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can often lead to more problems and complexity down the line. It's important to focus on writing clear, readable code first, and only optimize when profiling has shown that a specific section of code is causing performance issues.
