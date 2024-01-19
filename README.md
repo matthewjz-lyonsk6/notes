@@ -298,3 +298,10 @@ In essence, a good programmer should aim to solve problems effectively with mini
 
 # 2024-01-18
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and techniques, such as version control, task management, debugging, testing, documentation, etc., to keep your code clean, organized, maintainable, testable and easy to understand. Remember that continuous learning and improvement are the keys to success in the world of programming.
+
+# 2024-01-19
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques such as the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你避免在开发过程中出现不必要的麻烦。你可以使用项目管理工具，如Trello或Jira，来跟踪任务的进度和分配资源。确保你的团队成员了解他们的职责，并定期检查进度，以确保项目按计划进行。
+ 最后，保持组织。一个整洁、有组织的代码库对于提高代码质量和减少错误至关重要。使用版本控制系统（如Git）来管理你的代码，并在开发过程中的每个阶段进行代码审查。这可以帮助你发现潜在的问题，并及时修复它们，从而提高软件的稳定性。 总之，通过优先处理任务、提前计划和保持代码组织，你可以成为一名更有效的程序员。
