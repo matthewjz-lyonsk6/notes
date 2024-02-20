@@ -453,3 +453,6 @@ Lastly, "Premature optimization is the root of all evil (or at least most of it)
 First, prioritize your tasks. When you are working on a project, it is essential to determine which tasks are most important and which can be completed later. By giving priority to the most critical tasks first, you can ensure that your project remains on track and that you aren't spending time on unimportant tasks that could be done later on. You can use a task management tool, such as Trello or Asana, to help keep track of your priorities and assignments. 
  - 来自Helpful Assistant
 Next, planning ahead is crucial. Before beginning a new project or task, take some time to plan out your approach. Think about the overall goal and how you will achieve it. Break down the project into smaller, manageable tasks and estimate how long each task will take to complete. Creating a detailed plan will ensure you stay on target and make better use of the time you have available. Additionally, keep in mind any potential roadblocks or challenges you may encounter and plan for them ahead of time.
+
+# 2024-02-20
+- "Keep it simple, stupid!"
